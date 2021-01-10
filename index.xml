@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kévin Saudé</title>
+    <link>kevinsaude.github.io/</link>
+    <description>Recent content on Kévin Saudé</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="kevinsaude.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>kevinsaude.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>kevinsaude.github.io/about/</guid>
+      <description>About Me   I am currently pursuing a PhD in political science at the University of Limerick, Ireland. Supervised by Dr. Rory Costello, my dissertation focuses on political identities in Western Europe throughout the 2008-2014 crises. I am also a Teaching Assistant in comparative European politics, and Politics of the European Union.
+ PhD dissertation (completion expected in June 2022) Title: The causal effect of party system polarisation on positive and negative partisanship between 1999-2020 in Western Europe</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>kevinsaude.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>kevinsaude.github.io/contact/</guid>
+      <description> Email: kevin.saude@ul.ie   Social  Facebook Twitter  </description>
+    </item>
+    
+  </channel>
+</rss>
