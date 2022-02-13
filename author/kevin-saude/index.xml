@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kévin Saudé</title>
+    <link>https://kevinsaude.github.io/author/kevin-saude/</link>
+      <atom:link href="https://kevinsaude.github.io/author/kevin-saude/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kévin Saudé</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2022 Kévin Saudé</copyright>
+    <image>
+      <url>https://kevinsaude.github.io/author/kevin-saude/avatar_hu9191547cb22093c0672fb071f9f4be08_353595_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Kévin Saudé</title>
+      <link>https://kevinsaude.github.io/author/kevin-saude/</link>
+    </image>
+    
+  </channel>
+</rss>
