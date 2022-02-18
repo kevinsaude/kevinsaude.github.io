@@ -2,22 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kévin Saudé</title>
-    <link>https://kevinsaude.github.io/author/kevin-saude/</link>
-      <atom:link href="https://kevinsaude.github.io/author/kevin-saude/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://kevinsaude.eu/author/kevin-saude/</link>
+      <atom:link href="http://kevinsaude.eu/author/kevin-saude/index.xml" rel="self" type="application/rss+xml" />
     <description>Kévin Saudé</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2022 Kévin Saudé</copyright><lastBuildDate>Wed, 24 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2022 Kévin Saudé</copyright>
     <image>
-      <url>https://kevinsaude.github.io/author/kevin-saude/avatar_hu6893781a2d9edb760e7d07a44e700b9c_672744_270x270_fill_q75_lanczos_center.jpeg</url>
+      <url>http://kevinsaude.eu/author/kevin-saude/avatar_hu9191547cb22093c0672fb071f9f4be08_353595_270x270_fill_q75_lanczos_center.jpeg</url>
       <title>Kévin Saudé</title>
-      <link>https://kevinsaude.github.io/author/kevin-saude/</link>
+      <link>http://kevinsaude.eu/author/kevin-saude/</link>
+    </image>
+    
+  </channel>
+</rss>
+-saude/</link>
     </image>
     
     <item>
-      <title>Departmental research seminar: Theoretical framework presentation</title>
-      <link>https://kevinsaude.github.io/publication/ppa_spring_2021/</link>
-      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://kevinsaude.github.io/publication/ppa_spring_2021/</guid>
-      <description></description>
+      <title>Departmental research seminar 2021</title>
+      <link>http://kevinsaude.eu/talk/departmental-research-seminar-2021/</link>
+      <pubDate>Wed, 24 Mar 2021 14:00:00 +0000</pubDate>
+      <guid>http://kevinsaude.eu/talk/departmental-research-seminar-2021/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    This seminar will be held online, in line with pandemic control measures
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
     </item>
     
   </channel>

@@ -2,23 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Kévin Saudé</title>
-    <link>https://kevinsaude.github.io/publication/</link>
-      <atom:link href="https://kevinsaude.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://kevinsaude.eu/publication/</link>
+      <atom:link href="http://kevinsaude.eu/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2022 Kévin Saudé</copyright><lastBuildDate>Wed, 24 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2022 Kévin Saudé</copyright>
     <image>
-      <url>https://kevinsaude.github.io/media/icon_hu5f4bb5be949e10fd85d1ec2cb0fdedec_33583_512x512_fill_lanczos_center_2.png</url>
+      <url>http://kevinsaude.eu/media/icon_hu5f4bb5be949e10fd85d1ec2cb0fdedec_33583_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
-      <link>https://kevinsaude.github.io/publication/</link>
+      <link>http://kevinsaude.eu/publication/</link>
     </image>
-    
-    <item>
-      <title>Departmental research seminar: Theoretical framework presentation</title>
-      <link>https://kevinsaude.github.io/publication/ppa_spring_2021/</link>
-      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://kevinsaude.github.io/publication/ppa_spring_2021/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

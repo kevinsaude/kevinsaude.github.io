@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://kevinsaude.github.io/sitemap.xml
+Sitemap: http://kevinsaude.eu/sitemap.xml
