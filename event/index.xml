@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Kévin Saudé</title>
-    <link>http://kevinsaude.eu/event/</link>
-      <atom:link href="http://kevinsaude.eu/event/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://kevinsaude.github.io/event/</link>
+      <atom:link href="https://kevinsaude.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2022 Kévin Saudé</copyright><lastBuildDate>Wed, 24 Mar 2021 14:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://kevinsaude.eu/media/icon_hu5f4bb5be949e10fd85d1ec2cb0fdedec_33583_512x512_fill_lanczos_center_2.png</url>
+      <url>https://kevinsaude.github.io/media/icon_hu5f4bb5be949e10fd85d1ec2cb0fdedec_33583_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>http://kevinsaude.eu/event/</link>
+      <link>https://kevinsaude.github.io/event/</link>
     </image>
     
     <item>
       <title>Departmental research seminar 2021</title>
-      <link>http://kevinsaude.eu/talk/departmental-research-seminar-2021/</link>
+      <link>https://kevinsaude.github.io/talk/departmental-research-seminar-2021/</link>
       <pubDate>Wed, 24 Mar 2021 14:00:00 +0000</pubDate>
-      <guid>http://kevinsaude.eu/talk/departmental-research-seminar-2021/</guid>
+      <guid>https://kevinsaude.github.io/talk/departmental-research-seminar-2021/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     This seminar will be held online, in line with pandemic control measures
