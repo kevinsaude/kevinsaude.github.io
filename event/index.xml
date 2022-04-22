@@ -5,12 +5,25 @@
     <link>https://kevinsaude.github.io/event/</link>
       <atom:link href="https://kevinsaude.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2022 Kévin Saudé</copyright><lastBuildDate>Wed, 24 Mar 2021 14:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2022 Kévin Saudé</copyright><lastBuildDate>Tue, 19 Apr 2022 16:00:00 +0000</lastBuildDate>
     <image>
       <url>https://kevinsaude.github.io/media/icon_hu5f4bb5be949e10fd85d1ec2cb0fdedec_33583_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://kevinsaude.github.io/event/</link>
     </image>
+    
+    <item>
+      <title>Expert panel on the French Presidential elections 2022</title>
+      <link>https://kevinsaude.github.io/talk/expert-panel-on-the-french-presidential-elections-2022/</link>
+      <pubDate>Tue, 19 Apr 2022 16:00:00 +0000</pubDate>
+      <guid>https://kevinsaude.github.io/talk/expert-panel-on-the-french-presidential-elections-2022/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Online event
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Departmental research seminar 2021</title>
