@@ -5,7 +5,7 @@
     <link>https://kevinsaude.github.io/</link>
       <atom:link href="https://kevinsaude.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Kévin Saudé</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2022 Kévin Saudé</copyright><lastBuildDate>Sat, 21 May 2022 10:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2022 Kévin Saudé</copyright><lastBuildDate>Thu, 09 Jun 2022 08:00:00 +0000</lastBuildDate>
     <image>
       <url>https://kevinsaude.github.io/media/icon_hu5f4bb5be949e10fd85d1ec2cb0fdedec_33583_512x512_fill_lanczos_center_2.png</url>
       <title>Kévin Saudé</title>
@@ -105,6 +105,19 @@ The variance of the distribution is $\sigma^{2}$.
   &lt;summary&gt;What is the parameter $\mu$?&lt;/summary&gt;
   &lt;p&gt;The parameter $\mu$ is the mean or expectation of the distribution.&lt;/p&gt;
 &lt;/details&gt;</description>
+    </item>
+    
+    <item>
+      <title>UL AHSS Postgraduate conference - June 2022</title>
+      <link>https://kevinsaude.github.io/talk/ul-ahss-postgraduate-conference-june-2022/</link>
+      <pubDate>Thu, 09 Jun 2022 08:00:00 +0000</pubDate>
+      <guid>https://kevinsaude.github.io/talk/ul-ahss-postgraduate-conference-june-2022/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    This is an in-person event in the foundation building, University of Limerick, Ireland.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
@@ -225,7 +238,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-465892731&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-187362549&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -235,7 +248,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-465892731&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-187362549&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
