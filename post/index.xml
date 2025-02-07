@@ -5,7 +5,7 @@
     <link>https://kevinsaude.github.io/post/</link>
       <atom:link href="https://kevinsaude.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2022 Kévin Saudé</copyright><lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2025 Kévin Saudé</copyright><lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
     <image>
       <url>https://kevinsaude.github.io/media/icon_hu5f4bb5be949e10fd85d1ec2cb0fdedec_33583_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
@@ -91,7 +91,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-743892615&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-645932871&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -101,7 +101,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-743892615&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-645932871&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
